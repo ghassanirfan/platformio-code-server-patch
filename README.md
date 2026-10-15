@@ -16,7 +16,7 @@ inside code-server.
 
 The extension was modified so that the PIO Home iframe is routed through:
 
-https://armbian.local:8080/proxy/<PIO_PORT>/session/...
+xxxxx:8080/proxy/<PIO_PORT>/session/...
 
 The PIO Home port is detected dynamically from the generated URL.
 
